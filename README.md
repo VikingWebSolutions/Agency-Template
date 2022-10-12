@@ -31,7 +31,7 @@ _Allow the Customers to select from these Security Packages_
 ```
 
 # Advertising Package To Select #
-_Allow the Customers to select from these Security Packages_
+_Allow the Customers to select from these Advertising Packages_
 ```
 1) No Advertising ~ $0.00
 2) Business Starter (Social Media Marketing) ~ $750/Monthly ~ $9,000/Yearly
