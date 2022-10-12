@@ -17,21 +17,29 @@ _Here are the steps to install Agency on Clients Server_
 # Hosting Packages To Select #
 _Allow the customers to select from these Hosting Packages_
 ```
-1) Basic Hosting ~ $8/Mo
-2) Advanced Hosting ~ $13/Mo
-3) Ultimate Hosting ~ $25/Mo
+1) Basic Hosting ~ $12/Monthly ~ $120/Yearly
+2) Advanced Hosting ~ $15/Monthly ~ $150/Yearly
+3) Ultimate Hosting ~ $25/Monthly ~ $250/Yearly
 ```
 
 # Security Package To Select #
 _Allow the Customers to select from these Security Packages_
 ```
-1) Basic Security (SSL Certification) ~ $0/Mo
-2) Advanced Security (SSL + Firewall) ~ $10/Mo
-3) Ultimate Security (SSL + Firewall + DDoS Protection) ~ $20/Mo
+1) Basic Security (SSL Certification) ~ $10 1-Time Fee
+2) Advanced Security (SSL + Firewall) ~ $10/Monthly ~ $120/Yearly
+3) Ultimate Security (SSL + Firewall + DDoS Protection) ~ $20/Monthly ~ $240/Yearly
+```
+
+# Advertising Package To Select #
+_Allow the Customers to select from these Security Packages_
+```
+1) No Advertising ~ $0.00
+2) Business Starter (Social Media Marketing) ~ $750/Monthly ~ $9,000/Yearly
+3) Aggressive Advertising (SMM + Email + SEO) ~ $1,500/Monthly ~ $18,000/Yearly
 ```
 
 # Theme Managed By; #
-_Programmer & Linux Admin ~ C0d3 N3rd_
+_Programmer & Linux Admin ~ C3lt1c Viking_
 ```
 info@vikingwebsolutions.info
 [Viking Web Solutions](https://www.vikingwebsolutions.info)
